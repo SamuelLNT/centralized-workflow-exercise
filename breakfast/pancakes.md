@@ -11,3 +11,4 @@
 ## Instructions
 1. Mix ingredients
 2. Fry in pan
+3. Serve with jam, nutella, maple syrup and/or berries
