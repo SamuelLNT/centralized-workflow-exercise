@@ -1,6 +1,6 @@
 # Scones
 
-## Indgredients
+## Ingredients
 - 4 dl Flour
 - 2 tsp baking powder
 - 2 pinches of salt
