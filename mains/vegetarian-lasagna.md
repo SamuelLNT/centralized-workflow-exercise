@@ -9,6 +9,7 @@
 - **1** egg
 - **1/2 cup** grated Parmesan cheese
 - **2 cups** shredded mozzarella cheese
+- **1 block** feta cheese
 - **1 lb** fresh spinach, rinsed and chopped (or use frozen spinach, thawed and drained)
 - **1** medium zucchini, thinly sliced
 - **1** bell pepper, diced
