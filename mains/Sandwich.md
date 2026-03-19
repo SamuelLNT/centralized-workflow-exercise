@@ -1,9 +1,9 @@
-# Zandwich
+# Sandwich
 
 ## Ingredients
-- 3 slices of bread
-- 2 silces of chis
+- 2 slices of bread
+- 2 silces of chees
 - 4 slices of ham
   
 ## Instructions
-23vdfgtr56b6verfv
+put ham and cheese between two breads
