@@ -12,5 +12,7 @@
 
 
 ## Instructions
-
+- use only frozen vegetables
+- freeze the pasta for 2 hours
+- toss it together to get a crunchy salad
 TODO: these are missing
