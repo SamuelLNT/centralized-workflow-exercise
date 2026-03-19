@@ -1,12 +1,12 @@
 # This delicious potato-leek soup is creamy, filling, and perfect for cold days.
 
 # Ingredients
-- 500 g potatoes
+- 500 kg potatoes
 - 2-3 leeks
-- 1 onion
+- 1-2 onion
 - 2 cloves garlic (optional)
 - 1 liter chicken stock or vegetable broth
-- 2 dl cream
+- 2-3 dl cream
 - 100 g bacon (optional)
 - Butter for frying
 - Salt and pepper
