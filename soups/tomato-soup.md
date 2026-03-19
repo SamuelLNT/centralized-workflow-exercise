@@ -1,6 +1,5 @@
 # Tomato soup recipe
 
-
 ## Ingredients
 
 - **10** tomatoes
