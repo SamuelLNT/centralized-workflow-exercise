@@ -38,6 +38,6 @@
 - Fry bacon pieces in a pan until crispy.
 - Let them drain on paper towels.
 
-##Serving: 
+## Serving: 
 - Serve the soup steaming hot, topped with crispy bacon and finely chopped chives.
 - You can also serve a good piece of bread with it.
